@@ -1,0 +1,391 @@
+2020-04-18 19:44:53 INFO  EmpRestAPI:33 - The response body is  {
+    "City": "Auckland",
+    "Temperature": "17.28 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:44:53 INFO  EmpRestAPI:34 - Verifying the response body
+2020-04-18 19:44:53 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 19:45:34 INFO  EmpRestAPI:33 - The response body is  {
+    "City": "Auckland",
+    "Temperature": "17.28 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:45:34 INFO  EmpRestAPI:34 - Verifying the response body
+2020-04-18 19:45:34 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 19:49:55 INFO  EmpRestAPI:33 - The responsebody is {
+    "City": "Auckland",
+    "Temperature": "17.28 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Server           nginx
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Date           Sat, 18 Apr 2020 07:50:01 GMT
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Content-Type           application/json
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Content-Length           166
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Connection           keep-alive
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Vary           Accept-Encoding
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Content-Encoding           gzip
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Cache-Control           max-age=0
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Expires           Sat, 18 Apr 2020 07:50:01 GMT
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Host-Header           192fc2e7e50945beb8231a492d6a8024
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Access-Control-Allow-Origin           *
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - alt-svc           quic=":443"; ma=86400; v="43,39"
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - Host-Header           5d77dd967d63c3104bced1db0cace49c
+2020-04-18 19:49:55 INFO  EmpRestAPI:40 - X-Proxy-Cache           MISS
+2020-04-18 19:49:55 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 19:55:36 INFO  EmpRestAPI:34 - The responsebody is {
+    "City": "Auckland",
+    "Temperature": "17.15 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Server           nginx
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Date           Sat, 18 Apr 2020 07:55:41 GMT
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Content-Type           application/json
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Content-Length           166
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Connection           keep-alive
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Vary           Accept-Encoding
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Content-Encoding           gzip
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Cache-Control           max-age=0
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Expires           Sat, 18 Apr 2020 07:55:41 GMT
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Host-Header           192fc2e7e50945beb8231a492d6a8024
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Access-Control-Allow-Origin           *
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - alt-svc           quic=":443"; ma=86400; v="43,39"
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - Host-Header           5d77dd967d63c3104bced1db0cace49c
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:41 - X-Proxy-Cache           MISS
+2020-04-18 19:55:36 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:55:36 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 19:56:03 INFO  EmpRestAPI:34 - The responsebody is {
+    "City": "Auckland",
+    "Temperature": "17.15 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:56:03 INFO  EmpRestAPI:41 - Server           nginx
+2020-04-18 19:56:03 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:56:03 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 19:57:32 INFO  EmpRestAPI:34 - The responsebody is {
+    "City": "Auckland",
+    "Temperature": "17.15 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 19:57:32 INFO  EmpRestAPI:41 - Server           nginx
+2020-04-18 19:57:32 INFO  EmpRestAPI:43 - Verifying the Date of the test 
+2020-04-18 19:57:32 INFO  EmpRestAPI:46 - The date of the test is   Sat, 18 Apr 2020 07:57:37 GMT
+2020-04-18 19:57:32 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:12:59 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:12:59 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:12:59 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.85 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 20:12:59 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:12:59 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:12:59 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:12:59 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.85 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 20:12:59 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:12:59 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:12:59 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:16:31 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:16:31 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.85 Degree celsius",
+    "Humidity": "77 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "4.1 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 20:16:31 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:16:31 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:16:31 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:37:06 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:37:06 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.36 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 20:37:06 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:37:06 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:37:06 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:37:31 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:37:31 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.36 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 20:37:31 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:37:31 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:37:31 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 20:38:35 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 20:38:35 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.36 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 20:38:35 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 20:38:35 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 20:38:35 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:05:44 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 21:05:44 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.18 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 21:05:44 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 21:05:44 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 21:05:44 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:05:47 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 21:05:47 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.18 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 21:05:47 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 21:05:47 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 21:05:47 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:17:21 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 21:17:21 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.17 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 21:17:21 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 21:17:21 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 21:17:21 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:17:28 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 21:17:28 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.17 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 21:17:28 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 21:17:28 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 21:17:28 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:22:06 INFO  EmpRestAPI:37 - verify response body
+2020-04-18 21:22:06 INFO  EmpRestAPI:40 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.17 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "290 Degree"
+}
+2020-04-18 21:22:06 INFO  EmpRestAPI:48 - Verifying status code
+2020-04-18 21:22:06 INFO  EmpRestAPI:50 - The status code is 200
+2020-04-18 21:22:06 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:35:18 INFO  EmpRestAPI:31 - verify response body
+2020-04-18 21:35:18 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "15.96 Degree celsius",
+    "Humidity": "87 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 21:35:18 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-18 21:35:18 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-18 21:35:18 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:38:14 INFO  EmpRestAPI:31 - verify response body
+2020-04-18 21:38:14 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "15.96 Degree celsius",
+    "Humidity": "87 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 21:38:14 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-18 21:38:14 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-18 21:38:14 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:40:17 INFO  EmpRestAPI:31 - verify response body
+2020-04-18 21:40:17 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "15.96 Degree celsius",
+    "Humidity": "87 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 21:40:17 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-18 21:40:17 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-18 21:40:17 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:49:33 INFO  EmpRestAPI:31 - verify response body
+2020-04-18 21:49:33 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "15.5 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 21:49:33 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-18 21:49:33 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-18 21:49:33 INFO  EmpRestAPI:30 - The test is finished
+2020-04-18 21:52:16 INFO  EmpRestAPI:31 - verify response body
+2020-04-18 21:52:16 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "15.5 Degree celsius",
+    "Humidity": "88 Percent",
+    "WeatherDescription": "clear sky",
+    "WindSpeed": "3.6 Km per hour",
+    "WindDirectionDegree": "300 Degree"
+}
+2020-04-18 21:52:17 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-18 21:52:17 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-18 21:52:17 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 14:49:46 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 14:49:46 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "18.07 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2020-04-19 14:49:46 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 14:49:46 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 14:49:46 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:07:30 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:07:30 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.43 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "moderate rain",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2020-04-19 15:07:30 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:07:30 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:07:30 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:08:58 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:08:58 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.43 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "moderate rain",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2020-04-19 15:08:58 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:08:58 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:08:58 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:12:56 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:12:56 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.43 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "moderate rain",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2020-04-19 15:12:56 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:12:56 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:12:56 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:20:14 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:20:14 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.46 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "moderate rain",
+    "WindSpeed": "4.6 Km per hour",
+    "WindDirectionDegree": "270 Degree"
+}
+2020-04-19 15:20:14 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:20:14 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:20:14 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:32:46 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:32:46 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "16.93 Degree celsius",
+    "Humidity": "89 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "1.34 Km per hour",
+    "WindDirectionDegree": "274 Degree"
+}
+2020-04-19 15:32:46 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:32:46 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:32:46 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:45:19 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:45:19 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.14 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "5.7 Km per hour",
+    "WindDirectionDegree": "310 Degree"
+}
+2020-04-19 15:45:19 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:45:19 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:45:19 INFO  EmpRestAPI:30 - The test is finished
+2020-04-19 15:45:43 INFO  EmpRestAPI:31 - verify response body
+2020-04-19 15:45:43 INFO  EmpRestAPI:34 - Response Body{
+    "City": "Auckland",
+    "Temperature": "17.14 Degree celsius",
+    "Humidity": "82 Percent",
+    "WeatherDescription": "light rain",
+    "WindSpeed": "5.7 Km per hour",
+    "WindDirectionDegree": "310 Degree"
+}
+2020-04-19 15:45:43 INFO  EmpRestAPI:42 - Verifying status code
+2020-04-19 15:45:43 INFO  EmpRestAPI:44 - The status code is 200
+2020-04-19 15:45:43 INFO  EmpRestAPI:30 - The test is finished

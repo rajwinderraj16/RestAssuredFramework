@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="RestAssuredApi">
+
+
+	<test name="RestAssuredTest">
+
+		<listeners>
+
+			<listener class-name="RestAssuredUtility.Listeners" />
+
+		</listeners>
+
+		<classes>
+
+
+			<class name="RestAssuredTestCase.TC_GetRequest" />
+
+
+
+		</classes>
+
+
+	</test>
+
+
+
+</suite>
